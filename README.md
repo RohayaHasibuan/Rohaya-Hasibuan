@@ -8,7 +8,7 @@
 
 
         <th>STRUKTUR PEMBANGUN ORGAN TUBUH</th>
-    
+    </tr>
     <tr>
         <td>Kita akan membahas tentang struktur pembangun organ tubuh manusia dari yang terkecil yang sangat menakjubkan dalam tubuh kita. Komponen tersebut benama sel. 
         Sel adalah satuan unit struktural dan fungsional, makhluk hidup terkecil yang merupakan dasar penyusun bagian-bagian tubuh.
