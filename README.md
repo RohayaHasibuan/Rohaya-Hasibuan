@@ -1,16 +1,14 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <tittle><table>
+    <title><table>
     <link rel="shortcut icon" href="index.html" type="image/x-icon">
 </head>
 
-<table>
-    <tr>
+
         <th>STRUKTUR PEMBANGUN ORGAN TUBUH</th>
-    </tr>
+    
     <tr>
         <td>Kita akan membahas tentang struktur pembangun organ tubuh manusia dari yang terkecil yang sangat menakjubkan dalam tubuh kita. Komponen tersebut benama sel. 
         Sel adalah satuan unit struktural dan fungsional, makhluk hidup terkecil yang merupakan dasar penyusun bagian-bagian tubuh.
@@ -34,3 +32,4 @@
         </th>
     </tr>
 </table>
+
